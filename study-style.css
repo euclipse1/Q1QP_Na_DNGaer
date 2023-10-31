@@ -7,11 +7,12 @@
     padding: 0px;
 }
 
+
 .whole{
     width:100vw;
     height: 100vh; 
 }
-
+/*header style: texts, links*/
 .header{
     background-color: black;
     width: 99.7vw;
@@ -52,7 +53,7 @@
     transform: scale(1.2);
     transition: transform .5s;
   }
-
+/*body styles: layout and bg img*/
 .body{
     width: 100vw;
     height: 80vh;
@@ -63,7 +64,7 @@
     width: 99.6vw;
     height: 80vh;
 }
-
+/*content text style*/
 .content-text h1{
     font-family: 'Montserrat', sans-serif;
 
@@ -86,13 +87,13 @@
     top: 50%;
     left: 50%;
 }
-
+/*to edit the spacing of texts in the box*/
 .box-text h3{
     line-height: 1.5;
     margin-bottom: 5vh;
 
 }
-
+/*for background color of texts*/
 .text-box p{
     color: gray;
     width: 85vw;
@@ -108,7 +109,7 @@
     
 }
 
-
+/*footer styles: links, texts , img*/
 .footer{
     background-color: #000000;
     height: 10vh;

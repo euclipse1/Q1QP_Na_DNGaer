@@ -7,11 +7,12 @@
     padding: 0px;
 }
 
+/*layout size for page*/
 .whole{
     width:100vw;
     height: 100vh; 
 }
-
+/*header styles: texts, links*/
 .header{
     background-color: black;
     width: 99.7vw;
@@ -52,13 +53,13 @@
     transform: scale(1.2);
     transition: transform .5s;
 }
-
+/*body size*/
 .body{
     width: 100vw;
     height: 80vh;
     text-align: center;
 }
-
+/*body styles: bg img, texts, layout*/
 .body img{
     width: 100vw;
     height: 80vh;
@@ -109,7 +110,7 @@
 }
 
 
-
+/*footer styles: links, image, texts*/
 .footer{
     background-color: #000000;
     height: 10vh;

@@ -6,13 +6,14 @@
     margin: 0px;
     padding: 0px;
 }
-
+/*style for the entire page*/
 .whole{
     width:100vw;
     height: 100vh; 
     text-align: center;
 }
 
+/*header styles, texts and links*/
 .header{
     font-family: 'Montserrat', sans-serif;
     
@@ -55,6 +56,7 @@
     transition: transform .5s;
 }
 
+/*body style:photos, text*/
 .body{
     width: 100vw;
     height: 80vh;
@@ -81,7 +83,7 @@
     margin-left: 45vw;
     
 }
-
+/*size adjust for each div*/
 .data div{
     width: 80vw;
     height: 100vh;
@@ -92,7 +94,7 @@
     font-family: 'Montserrat', sans-serif;
     color: rgb(255, 255, 255);
 }
-
+/*photo for each div style*/
 #graph{
     margin-top: 2vh;
     width: 35vw;
@@ -107,7 +109,7 @@
     padding: 1vh;
     
 }
-
+/*conclusion edits*/
 #end h3{
     font-family: 'Amaranth', sans-serif;
 
@@ -122,7 +124,7 @@
     float: left;
 }
 
-
+/*footer styles: texts, link, img*/
 .footer{
     background-color: #000000;
     height: 10vh;
